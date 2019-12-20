@@ -9,7 +9,7 @@ url: https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial
 
 
 ### Description of the Maze Project 
-Survival Shooter is an isometric shooter game. The theme revolves around a young boy (yourself) who has a dream that all of his toys have come to life. You run around and shoot your toys such as the Zombunnys, Zombear, and Hellephants. You score points whenever you shoot a toy. However, the toys also attack you during the shooting. You gradually lose your health that is visible on the health slider and eventually die.
+Survival Shooter is an isometric shooter game. The theme revolves around a young boy (yourself) who has a dream that all of his toys have come to life. You run around and shoot your toys such as the Zombunnys, Zombears, and Hellephants. You score points whenever you shoot a toy. However, the toys also attack you during the shooting. You gradually lose your health that is visible on the health slider and eventually die.
 
 
 ### My Reflection and Conclusion
